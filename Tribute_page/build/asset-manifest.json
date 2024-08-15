@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c7baf94.css",
+    "main.js": "/static/js/main.8208ad8f.js",
+    "static/js/453.6fc71a90.chunk.js": "/static/js/453.6fc71a90.chunk.js",
+    "static/media/Spider-man.jpeg": "/static/media/Spider-man.0d48d29158f0336b2649.jpeg",
+    "static/media/spiderbg.jpeg": "/static/media/spiderbg.069f50ea133b06382e85.jpeg",
+    "index.html": "/index.html",
+    "main.8c7baf94.css.map": "/static/css/main.8c7baf94.css.map",
+    "main.8208ad8f.js.map": "/static/js/main.8208ad8f.js.map",
+    "453.6fc71a90.chunk.js.map": "/static/js/453.6fc71a90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7baf94.css",
+    "static/js/main.8208ad8f.js"
+  ]
+}
